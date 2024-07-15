@@ -9,6 +9,7 @@ console.log(hewan);
 //array sort descending
 const fruit = ["mangga","apel","pisang","anggur"];
 fruit.sort();
+
 console.log(fruit);
 
 //output
