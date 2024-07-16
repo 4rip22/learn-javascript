@@ -1,8 +1,8 @@
 //get method
 const date = new Date("2024-08-22");
-date.getUTCFullYear();
-date.getUTCMonth();
-date.getUTCDate();
+    date.getUTCFullYear();
+    date.getUTCMonth();
+    date.getUTCDate();
 
 
 //method getFullYear mengembalikan tahun
