@@ -1,16 +1,16 @@
 //array sort ascending
 const hewan = ["harimau","bebek","angsa","kucing"];
-hewan.reverse();
-console.log(hewan);
+    hewan.reverse();
+    console.log(hewan);
 
 //output
 //[ 'kucing', 'angsa', 'bebek', 'harimau' ]
 
 //array sort descending
 const fruit = ["mangga","apel","pisang","anggur"];
-fruit.sort();
+    fruit.sort();
 
-console.log(fruit);
+    console.log(fruit);
 
 //output
 //[ 'anggur', 'apel', 'mangga', 'pisang' ]
