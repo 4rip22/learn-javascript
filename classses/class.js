@@ -44,4 +44,5 @@ hewan2.setUmur(10);
 console.log("----------------------------------------");
 hewan3.display3()
 hewan3.setUmur1(15);
+console.log("----------------------------------------");
 
