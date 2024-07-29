@@ -1,5 +1,6 @@
-//async
+//Async
 async function nama(){
-    const ini = "arip saputra";
-    return "arip saputra";
+    console.log("arip saputra");
 }
+nama();
+
