@@ -1,0 +1,31 @@
+[
+    {
+        "nama":"arip saputra",
+        "alamat":"Gunung kemala",
+        "umur" : 18,
+        "Status": "mahasiswa",
+        "Email": "arip@arip"
+    },
+    {
+        "nama":"salman",
+        "alamat":"Gunung kemala",
+        "umur" : 19,
+        "Status": "mahasiswa",
+        "Email": "salman@salman"
+    }, 
+    {
+        
+        "nama":"rangga ariska",
+        "alamat":"Gunung kemala",
+        "umur" : 20,
+        "Status": "mahasiswa",
+        "Email": "rangga@rangga"
+    },
+    {
+        "nama":"anfasya akbar",
+        "alamat":"Gunung kemala",
+        "umur" : 21,
+        "Status": "mahasiswa",
+        "Email": "rangga@rangga"
+    }
+]
